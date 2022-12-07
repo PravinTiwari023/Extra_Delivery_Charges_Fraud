@@ -14,8 +14,11 @@ https://drive.google.com/file/d/1NjYY0t8ed4fcLEvgQl9DIqFluUkVL3GF/view
 
 -------------------------------------------------------------------------------------------------
 Final Calculations :
+
 Expected Charges as per Company X : 10575.39999999997
+
 Charges billed by Courier Company : 18432.80000000003
+
 Extra Charges : -7857.400000000058
 
 ------------------------------------------------------------------------------------------------
