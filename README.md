@@ -8,3 +8,6 @@ courier companies in India who charge them some amount per delivery.
 
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/94825755/206195429-5429f46e-0573-463f-bba3-3a9ffb932360.png)
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/94825755/206195692-d675d9d4-f15e-4e66-bf35-bd854da8a61f.png)
